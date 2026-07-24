@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Models
+*.pt
+
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# VS Code
+.vscode/
+
+# Environment
+.env
